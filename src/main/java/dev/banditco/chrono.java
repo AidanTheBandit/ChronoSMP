@@ -30,6 +30,6 @@ public final class chrono extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        /// Plugin shutdown logic
+        // Plugin shutdown logic
     }
 }
