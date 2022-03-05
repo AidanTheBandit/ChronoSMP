@@ -1,0 +1,8 @@
+name: ChronoSMP
+version: '${project.version}'
+main: dev.banditco.chrono
+api-version: 1.18
+prefix: [ CHRONO ]
+authors: [ AidanTheBandit ]
+description: This is the epic plugin for the Chrono SMP! This plugin was developed by AidanTheBandit at BanditCo!
+website: https://banditco.dev
